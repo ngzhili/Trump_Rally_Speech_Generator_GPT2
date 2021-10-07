@@ -2,7 +2,8 @@
 # Trump Rally Speech Generator
 
 Fine Tuned GPT-2 Text Generation Model on Donald Trump's Rally Speeches for US Presidential Elections.
-Hugging Face Transformer Model: https://huggingface.co/gpt2
+
+Hugging Face GPT-2 Transformer Model: https://huggingface.co/gpt2
 
 Dataset for Trump Rally Speeches: https://www.kaggle.com/christianlillelund/donald-trumps-rallies
 
