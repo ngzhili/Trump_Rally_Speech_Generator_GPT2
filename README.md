@@ -10,7 +10,7 @@ Dataset concatenated to form a single .txt file for model training.
 GPT-2 Weights fine-tuned using google-colab free GPU for 300 epoch.
 
 
-![alt text](http://url/to/img.png)
+![Inference 1](https://github.com/ngzhili/Trump_Rally_Speech_Generator_GPT2/blob/main/inference.JPG)
 
 
 ## aitextgen_streamlit
