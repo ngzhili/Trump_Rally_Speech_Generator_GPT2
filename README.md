@@ -5,7 +5,7 @@ Fine Tuned GPT-2 Text Generation Model on Donald Trump's Rally Speeches for US P
 
 Hugging Face GPT-2 Transformer Model: https://huggingface.co/gpt2
 
-Dataset for Trump Rally Speeches: https://www.kaggle.com/christianlillelund/donald-trumps-rallies
+Dataset for Trump Election Rally Speeches 2019 to 2020: https://www.kaggle.com/christianlillelund/donald-trumps-rallies
 
 ## Pre-processing
 Dataset concatenated to form a single .txt file for model training.
