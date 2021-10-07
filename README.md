@@ -2,6 +2,7 @@
 # Trump Rally Speech Generator
 
 Fine Tuned GPT-2 Text Generation Model on Donald Trump's Rally Speeches for US Presidential Elections.
+Hugging Face Transformer Model: https://huggingface.co/gpt2
 
 Dataset for Trump Rally Speeches: https://www.kaggle.com/christianlillelund/donald-trumps-rallies
 
@@ -11,13 +12,13 @@ GPT-2 Weights fine-tuned using google-colab free GPU for 300 epoch.
 
 ## Inference on streamlit
 
-#### Prediction parameters: 
+#### 1) Prediction parameters: 
 - Temperature = 0.7
 - Max Characters Generated = 100
 - Top Probability (top P) = 0.9
 ![Inference 1](https://github.com/ngzhili/Trump_Rally_Speech_Generator_GPT2/blob/main/inference.JPG)
 
-#### Prediction parameters: 
+#### 2) Prediction parameters: 
 - Temperature = 1.0
 - Max Characters Generated = 331
 - Top Probability (top P) = 0.9
