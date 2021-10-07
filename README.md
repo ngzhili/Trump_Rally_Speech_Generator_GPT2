@@ -9,9 +9,10 @@ Dataset for Trump Rally Speeches: https://www.kaggle.com/christianlillelund/dona
 Dataset concatenated to form a single .txt file for model training.
 GPT-2 Weights fine-tuned using google-colab free GPU for 300 epoch.
 
+## Inference
 
 ![Inference 1](https://github.com/ngzhili/Trump_Rally_Speech_Generator_GPT2/blob/main/inference.JPG)
-
+![Inference 2](https://github.com/ngzhili/Trump_Rally_Speech_Generator_GPT2/blob/main/inference2.JPG)
 
 ## aitextgen_streamlit
 Streamlit-based Web App for Ai Text Generation based on GPT-2 Models from HuggingFace Model Hub using Python library aitextgen.
