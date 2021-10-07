@@ -51,4 +51,4 @@ if submit_button:
     
 
 # Runs Application
-#streamlit run textgen2.py
+#streamlit run app.py
