@@ -27,6 +27,6 @@ GPT-2 Weights fine-tuned using google-colab free GPU for 300 epoch.
 
 ## aitextgen_streamlit
 Streamlit-based Web App for Ai Text Generation based on GPT-2 Models from HuggingFace Model Hub using Python library aitextgen.
-Not able to host demo on Huroku via Streamlit due to slug size >500mb after installing dependencies and fine-tuned GPT-2 weights.
+Not able to host demo on Heroku via Streamlit due to slug size >500mb after installing dependencies and fine-tuned GPT-2 weights.
 
 
