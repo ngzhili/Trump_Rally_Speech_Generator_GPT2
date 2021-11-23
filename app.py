@@ -12,7 +12,7 @@ ai = aitextgen(model_folder="gpt2_weights_trump_rally_speech")
 with st.form(key='my_form'):
     prompt_text = st.text_input(label = "Enter your prompt text...",value = "Every family in Minnesota needs to know about sleepy Joe")
     temp = st.slider('Select Temperature/Perplexity',min_value = 0.1, max_value = 1.0, step = 0.1, value =0.7)
-    max_length = st.slider('Select Max Length of Characters Generated',min_value = 1, max_value = 1024, step = 10, value =100)
+    max_length = st.slider('Select Max Length of Words Generated',min_value = 1, max_value = 1024, step = 10, value =100)
     top_p = st.slider('Select Top Probability (top P)',min_value = 0.0, max_value = 1.0, step = 0.1, value =0.9)
     submit_button = st.form_submit_button(label='Generate Text!')
 
