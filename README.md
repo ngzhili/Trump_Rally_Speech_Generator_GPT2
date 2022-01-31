@@ -1,5 +1,7 @@
-
 # Trump Rally Speech Generator
+![framework](https://img.shields.io/badge/framework-streamlit-red)
+![libraries](https://img.shields.io/badge/libraries-aitextgen-green)
+![models](https://img.shields.io/badge/models-gpt2_text_generation-yellow)
 
 Fine Tuned GPT-2 Text Generation Model on Donald Trump's Rally Speeches for US Presidential Elections.
 
